@@ -1,2 +1,2 @@
 # coldfront-cli
-GOLang Attept for an ColdFront REST API client
+GOLang attepmt for an ColdFront REST API client
